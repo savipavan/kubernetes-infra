@@ -1,2 +1,6 @@
 az account set --subscription 6803d6ea-1951-46fd-94ed-18d1c3a29b83
 az aks get-credentials --resource-group aksrg --name aks1
+
+vmadmin
+R@dhasr12345
+ssh -i <private key path> vmadmin@20.169.151.70
